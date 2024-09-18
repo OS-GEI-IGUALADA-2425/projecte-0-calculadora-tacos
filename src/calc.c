@@ -2,6 +2,6 @@
 #include <math.h>
 #include "calc.h"
 
-double suma(int a, int b) {
+double suma(double a, double b) {
     return a + b;
 }
